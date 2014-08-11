@@ -112,6 +112,9 @@ GEMFILE
 %{gem_instdir}/Rakefile
 
 %changelog
+* Mon Aug 11 2014 Lukas Zapletal <lzap+git@redhat.com> 1.3.0-2
+- Fixes #6764 - removed extra/ directory (lzap+git@redhat.com)
+
 * Fri Jun 06 2014 Lukas Zapletal <lzap+git@redhat.com> 1.3.0-1
 - Updated foreman_discovery to 1.3.0 final version (lzap+git@redhat.com)
 
